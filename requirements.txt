@@ -1,0 +1,9 @@
+numpy
+pandas
+nbformat
+datetime
+matplotlib
+seaborn
+plotly
+cufflinks
+yfinance
