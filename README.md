@@ -1,4 +1,4 @@
-# 📈 Automated Portfolio Optimizer
+# Automated Portfolio Optimizer
 Python tool for dynamic asset allocation using Monte Carlo simulations to maximize risk-adjusted returns.
 ## Features
 
@@ -6,14 +6,6 @@ Python tool for dynamic asset allocation using Monte Carlo simulations to maximi
 - Risk modeling using advanced Monte Carlo simulations.
 - Strategic optimization for stock weighting and performance.
 
-## Quick Start
-Example of how to use the core optimization function.
-
-Python
-
-from optimizer_core import optimize
-portfolio = optimize(['NVDA', 'AAPL'], risk_level=7)
-print(portfolio)
 ## Project Files
 
 - Get_Stock_data.ipynb: Data collection pipeline.
